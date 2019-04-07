@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.column {
+  display: inline-block;
+  width: 33%;
+}
+
+.row {
+  width: 100%;
+}
