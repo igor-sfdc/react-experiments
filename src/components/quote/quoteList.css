@@ -1,0 +1,12 @@
+.loader {
+  padding: 20% 30% 20% 30%;
+}
+
+.quotesMessage {
+  margin: 1rem 0 1rem 0;
+  padding: 0.5rem;
+  background-color: rgb(190, 190, 190);
+}
+.quotesMessage div {
+  padding: 0.5rem;
+}

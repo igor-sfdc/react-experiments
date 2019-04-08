@@ -1,0 +1,21 @@
+.stockName {
+  margin-top: 1rem;
+}
+.stockList {
+  margin: 0.5rem 1rem;
+}
+.otherStockInput input {
+  margin-left: 0.5rem;
+  padding: 0.2rem;
+}
+
+.keyInput {
+  margin: 0.5rem 0rem;
+  width: 100%;
+}
+
+.keyInput input {
+  padding: 0.2rem;
+  width: 26rem;
+  margin-left: 0.5rem;
+}
